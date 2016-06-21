@@ -1,4 +1,3 @@
-Enter file contents here
 CREATE DATABSE testdb
 CREATE TABLE `testdv`.`users` (
 `user_id` INT( 5 ) NOT NULL AUTO_INCREMENT PRIMARY KEY ,
